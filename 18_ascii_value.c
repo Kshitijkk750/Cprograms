@@ -4,8 +4,7 @@
 
 int main(){
 	char c;
-	int a;
-	printf("enter the character ;\n");
+	printf("enter the character :\n");
 	scanf("%c",&c);
 	printf("Ascii value is : %d\n",c);
 }

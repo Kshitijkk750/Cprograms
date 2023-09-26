@@ -8,7 +8,7 @@ int main(){
 	c=a;
 	a=b;
 	b=c;
-	printf("%d\t%d\n",a,b);
+	printf("\t%d\t%d\n",a,b);
 	
 	
 }
