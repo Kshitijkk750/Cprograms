@@ -1,4 +1,4 @@
-//WAp With return type without parameter.
+//WAp Without return type without parameter.
 
 #include<stdio.h>
 
