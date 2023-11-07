@@ -52,7 +52,7 @@ public class MergeSort {
 			
 			if(start<end) {
 				int mid= (start+end)/2;
-				mergeSort(arr, start, mid); 
+				mergeSort(arr, start, mid);
 				mergeSort(arr,mid+1,end);
 				merge(arr, start, mid, end);
 				
